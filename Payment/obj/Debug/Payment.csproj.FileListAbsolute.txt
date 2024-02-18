@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\bin\Debug\Payment.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\obj\Debug\Payment.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\obj\Debug\Payment.FrmCustomer.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 10\Payment\Payment\obj\Debug\Payment.FrmPayment.resources
